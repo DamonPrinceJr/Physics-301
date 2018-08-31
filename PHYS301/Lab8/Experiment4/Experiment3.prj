@@ -1,0 +1,3 @@
+vhdl work "../../../../../Downloads/sel_strobeB.vhd"
+vhdl work "../../../../../Downloads/DCM_50M.vhd"
+vhdl work "Experiment3.vhf"

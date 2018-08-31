@@ -1,0 +1,80 @@
+V3 54
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment3.vhf" 2017/10/31.14:02:04 P.20131013
+EN work/Experiment3 1509483738 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment3/BEHAVIORAL 1509483739 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment3.vhf" \
+      EN work/Experiment3 1509483738 CP PULLUP CP DCM_50M CP SSD_1dig CP mux4SSD \
+      CP sel_strobeB CP bin2BCD3en
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" 2017/10/31.14:02:04 P.20131013
+EN work/M2_1B1_MXILINX_Experiment6 1509483740 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1B1_MXILINX_Experiment6/BEHAVIORAL 1509483741 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      EN work/M2_1B1_MXILINX_Experiment6 1509483740 CP AND2B2 CP OR2 CP AND2
+EN work/M2_1_MXILINX_Experiment6 1509483742 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1_MXILINX_Experiment6/BEHAVIORAL 1509483743 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      EN work/M2_1_MXILINX_Experiment6 1509483742 CP AND2B1 CP OR2 CP AND2
+EN work/FTCLEX_MXILINX_Experiment6 1509483744 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FTCLEX_MXILINX_Experiment6/BEHAVIORAL 1509483745 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      EN work/FTCLEX_MXILINX_Experiment6 1509483744 CP M2_1_MXILINX_Experiment6 \
+      CP XOR2 CP FDCE
+EN work/CB4CLED_MXILINX_Experiment6 1509483746 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/CB4CLED_MXILINX_Experiment6/BEHAVIORAL 1509483747 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      EN work/CB4CLED_MXILINX_Experiment6 1509483746 \
+      CP FTCLEX_MXILINX_Experiment6 CP M2_1_MXILINX_Experiment6 \
+      CP M2_1B1_MXILINX_Experiment6 CP VCC CP AND2B2 CP AND4 CP AND4B4 CP AND3 \
+      CP AND3B3 CP AND2 CP OR2
+EN work/Experiment6 1509483748 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment6/BEHAVIORAL 1509483749 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment6/Experiment6.vhf" \
+      EN work/Experiment6 1509483748 CP CB4CLED_MXILINX_Experiment6 CP INV CP AND4 \
+      CP PULLUP CP PULLDOWN CP Experiment3
+FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" 2017/10/05.12:25:49 P.20131013
+EN work/bin2BCD3en 1509483736 FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/bin2BCD3en/Behavioral 1509483737 \
+      FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" EN work/bin2BCD3en 1509483736
+FL "C:/Users/Big D/Downloads/DCM_50M.vhd" 2017/10/05.12:26:13 P.20131013
+EN work/DCM_50M 1509483728 FL "C:/Users/Big D/Downloads/DCM_50M.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DCM_50M/Behavioral 1509483729 \
+      FL "C:/Users/Big D/Downloads/DCM_50M.vhd" EN work/DCM_50M 1509483728
+FL "C:/Users/Big D/Downloads/mux4SSD.vhd" 2017/10/03.18:45:21 P.20131013
+EN work/mux4SSD 1509483732 FL "C:/Users/Big D/Downloads/mux4SSD.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mux4SSD/Behavioral 1509483733 \
+      FL "C:/Users/Big D/Downloads/mux4SSD.vhd" EN work/mux4SSD 1509483732
+FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" 2017/10/05.12:26:25 P.20131013
+EN work/sel_strobeB 1509483734 FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sel_strobeB/Behavioral 1509483735 \
+      FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" EN work/sel_strobeB 1509483734
+FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" 2017/10/03.15:14:50 P.20131013
+EN work/SSD_1dig 1509483730 FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSD_1dig/Behavioral 1509483731 \
+      FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" EN work/SSD_1dig 1509483730

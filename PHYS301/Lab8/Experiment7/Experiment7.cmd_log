@@ -1,0 +1,116 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment7/Experiment7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment7.ucf -p xc3s100e-cp132-4 "Experiment7.ngc" Experiment7.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment7_map.ncd Experiment7.ngd Experiment7.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment7_map.ncd Experiment7.ncd Experiment7.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment7.twx Experiment7.ncd -o Experiment7.twr Experiment7.pcf -ucf Experiment7.ucf 
+bitgen -intstyle ise -f Experiment7.ut Experiment7.ncd 

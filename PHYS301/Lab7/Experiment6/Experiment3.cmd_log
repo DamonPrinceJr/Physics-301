@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -refsym Experiment3 {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment6/Experiment3.sym} 
+sch2sym -intstyle ise -family spartan3e -refsym Experiment3 {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment6/Experiment3.sym} 

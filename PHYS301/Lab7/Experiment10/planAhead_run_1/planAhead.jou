@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Thu Oct 19 14:56:56 2017
+# Process ID: 13448
+# Log file: C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/pa.fromNetlist.tcl}
+startgroup
+set_property package_pin M5 [get_ports XLXN_6]
+endgroup
+startgroup
+set_property package_pin G12 [get_ports XLXN_5]
+endgroup
+startgroup
+set_property package_pin B8 [get_ports XLXN_4]
+endgroup
+set_property package_pin "" [get_ports [list  XLXN_3]]
+startgroup
+set_property package_pin A7 [get_ports XLXN_1]
+endgroup
+startgroup
+set_property package_pin M4 [get_ports XLXN_2]
+endgroup
+startgroup
+set_property package_pin C12 [get_ports XLXN_3]
+endgroup
+save_constraints

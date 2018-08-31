@@ -1,0 +1,12 @@
+EN dcm_50m NULL "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl00 1508448388
+EN sel_strobeb NULL "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl04 1508448392
+EN ssd_1dig NULL "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl06 1508448394
+AR mux4ssd behavioral "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl09 1508448397
+EN bin2bcd3en NULL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" sub00/vhpl02 1508448390
+AR sel_strobeb behavioral "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl05 1508448393
+AR ssd_1dig behavioral "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl07 1508448395
+EN mux4ssd NULL "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl08 1508448396
+AR experiment3 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.vhf" sub00/vhpl11 1508448399
+AR bin2bcd3en behavioral "C:/Users/Big D/Downloads/bin2BCD3en.vhd" sub00/vhpl03 1508448391
+AR dcm_50m behavioral "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl01 1508448389
+EN experiment3 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.vhf" sub00/vhpl10 1508448398

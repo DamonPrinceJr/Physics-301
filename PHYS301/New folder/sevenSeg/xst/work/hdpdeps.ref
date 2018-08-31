@@ -1,0 +1,39 @@
+V3 25
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.vhf" 2017/10/19.14:26:24 P.20131013
+EN work/Experiment3 1508448398 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment3/BEHAVIORAL 1508448399 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.vhf" \
+      EN work/Experiment3 1508448398 CP DCM_50M CP bin2BCD3en CP sel_strobeB \
+      CP SSD_1dig CP mux4SSD CP PULLUP
+FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" 2017/10/05.12:25:49 P.20131013
+EN work/bin2BCD3en 1508448390 FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/bin2BCD3en/Behavioral 1508448391 \
+      FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" EN work/bin2BCD3en 1508448390
+FL "C:/Users/Big D/Downloads/DCM_50M.vhd" 2017/10/05.12:26:13 P.20131013
+EN work/DCM_50M 1508448388 FL "C:/Users/Big D/Downloads/DCM_50M.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DCM_50M/Behavioral 1508448389 \
+      FL "C:/Users/Big D/Downloads/DCM_50M.vhd" EN work/DCM_50M 1508448388
+FL "C:/Users/Big D/Downloads/mux4SSD.vhd" 2017/10/03.18:45:21 P.20131013
+EN work/mux4SSD 1508448396 FL "C:/Users/Big D/Downloads/mux4SSD.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mux4SSD/Behavioral 1508448397 \
+      FL "C:/Users/Big D/Downloads/mux4SSD.vhd" EN work/mux4SSD 1508448396
+FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" 2017/10/05.12:26:25 P.20131013
+EN work/sel_strobeB 1508448392 FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sel_strobeB/Behavioral 1508448393 \
+      FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" EN work/sel_strobeB 1508448392
+FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" 2017/10/03.15:14:50 P.20131013
+EN work/SSD_1dig 1508448394 FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSD_1dig/Behavioral 1508448395 \
+      FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" EN work/SSD_1dig 1508448394

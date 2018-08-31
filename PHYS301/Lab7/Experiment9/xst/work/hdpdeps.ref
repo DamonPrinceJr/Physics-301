@@ -1,0 +1,131 @@
+V3 75
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" 2017/10/19.14:47:01 P.20131013
+EN work/M2_1E_MXILINX_butts 1508449635 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_butts/BEHAVIORAL 1508449636 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      EN work/M2_1E_MXILINX_butts 1508449635 CP AND3 CP AND3B1 CP OR2
+EN work/M8_1E_MXILINX_butts 1508449637 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M8_1E_MXILINX_butts/BEHAVIORAL 1508449638 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      EN work/M8_1E_MXILINX_butts 1508449637 CP M2_1E_MXILINX_butts CP MUXF5_L \
+      CP MUXF6
+EN work/butts 1508449639 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/butts/BEHAVIORAL 1508449640 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.vhf" \
+      EN work/butts 1508449639 CP M8_1E_MXILINX_butts
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment3.vhf" 2017/10/19.14:01:59 P.20131013
+EN work/Experiment3 1508449641 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment3/BEHAVIORAL 1508449642 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment3.vhf" \
+      EN work/Experiment3 1508449641 CP DCM_50M CP bin2BCD3en CP sel_strobeB \
+      CP SSD_1dig CP mux4SSD CP PULLUP
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" 2017/10/19.14:47:02 P.20131013
+EN work/FD4CE_MXILINX_Experiment9 1508449643 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FD4CE_MXILINX_Experiment9/BEHAVIORAL 1508449644 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      EN work/FD4CE_MXILINX_Experiment9 1508449643 CP FDCE
+EN work/Memory_MUSER_Experiment9 1508449645 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Memory_MUSER_Experiment9/BEHAVIORAL 1508449646 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      EN work/Memory_MUSER_Experiment9 1508449645 CP FD4CE_MXILINX_Experiment9
+EN work/D3_8E_MXILINX_Experiment9 1508449647 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/D3_8E_MXILINX_Experiment9/BEHAVIORAL 1508449648 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      EN work/D3_8E_MXILINX_Experiment9 1508449647 CP AND4 CP AND4B1 CP AND4B2 \
+      CP AND4B3
+EN work/REG_MUSER_Experiment9 1508449649 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REG_MUSER_Experiment9/BEHAVIORAL 1508449650 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      EN work/REG_MUSER_Experiment9 1508449649 CP D3_8E_MXILINX_Experiment9
+EN work/Experiment9 1508449651 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment9/BEHAVIORAL 1508449652 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Experiment9.vhf" \
+      EN work/Experiment9 1508449651 CP FD4CE_MXILINX_Experiment9 \
+      CP REG_MUSER_Experiment9 CP Memory_MUSER_Experiment9 CP butts CP AND2 \
+      CP Experiment3 CP INV
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Memory.vhf" 2017/10/19.13:27:38 P.20131013
+EN work/FD4CE_MXILINX_Memory 1508449653 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Memory.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FD4CE_MXILINX_Memory/BEHAVIORAL 1508449654 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Memory.vhf" \
+      EN work/FD4CE_MXILINX_Memory 1508449653 CP FDCE
+EN work/Memory 1508449655 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Memory.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Memory/BEHAVIORAL 1508449656 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/Memory.vhf" \
+      EN work/Memory 1508449655 CP FD4CE_MXILINX_Memory
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/REG.vhf" 2017/10/19.13:27:38 P.20131013
+EN work/D3_8E_MXILINX_REG 1508449657 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/REG.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/D3_8E_MXILINX_REG/BEHAVIORAL 1508449658 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/REG.vhf" \
+      EN work/D3_8E_MXILINX_REG 1508449657 CP AND4 CP AND4B1 CP AND4B2 CP AND4B3
+EN work/REG 1508449659 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/REG.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REG/BEHAVIORAL 1508449660 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/REG.vhf" \
+      EN work/REG 1508449659 CP D3_8E_MXILINX_REG
+FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" 2017/10/05.12:25:49 P.20131013
+EN work/bin2BCD3en 1508449627 FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/bin2BCD3en/Behavioral 1508449628 \
+      FL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" EN work/bin2BCD3en 1508449627
+FL "C:/Users/Big D/Downloads/DCM_50M.vhd" 2017/10/05.12:26:13 P.20131013
+EN work/DCM_50M 1508449625 FL "C:/Users/Big D/Downloads/DCM_50M.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DCM_50M/Behavioral 1508449626 \
+      FL "C:/Users/Big D/Downloads/DCM_50M.vhd" EN work/DCM_50M 1508449625
+FL "C:/Users/Big D/Downloads/mux4SSD.vhd" 2017/10/03.18:45:21 P.20131013
+EN work/mux4SSD 1508449633 FL "C:/Users/Big D/Downloads/mux4SSD.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mux4SSD/Behavioral 1508449634 \
+      FL "C:/Users/Big D/Downloads/mux4SSD.vhd" EN work/mux4SSD 1508449633
+FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" 2017/10/05.12:26:25 P.20131013
+EN work/sel_strobeB 1508449629 FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sel_strobeB/Behavioral 1508449630 \
+      FL "C:/Users/Big D/Downloads/sel_strobeB.vhd" EN work/sel_strobeB 1508449629
+FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" 2017/10/03.15:14:50 P.20131013
+EN work/SSD_1dig 1508449631 FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSD_1dig/Behavioral 1508449632 \
+      FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" EN work/SSD_1dig 1508449631

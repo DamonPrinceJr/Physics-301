@@ -1,0 +1,32 @@
+
+
+NET "Ain[0]" LOC = P11;
+
+
+NET "Ain[1]" LOC = L3;
+NET "Ain[2]" LOC = K3;
+NET "Ain[3]" LOC = B4;
+
+
+NET "Q2" IOSTANDARD = LVCMOS25;
+
+
+NET "Bin[0]" LOC = G3;
+NET "Bin[1]" LOC = F3;
+NET "Bin[2]" LOC = E2;
+NET "Bin[3]" LOC = N3;
+NET "OVR" LOC = G1;
+NET "Q0" LOC = M5;
+NET "Q2" LOC = P7;
+NET "S" LOC = A7;
+
+
+NET "NEG" LOC = P4;
+NET "Q1" LOC = M11;
+
+
+NET "Q3" LOC = P6;
+
+# PlanAhead Generated physical constraints 
+
+NET "C" LOC = N5;

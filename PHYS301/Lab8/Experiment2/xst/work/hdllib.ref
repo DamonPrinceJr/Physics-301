@@ -1,0 +1,6 @@
+EN dcm_50m NULL "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl00 1508876595
+AR experiment2 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" sub00/vhpl05 1508876600
+EN fjkc_mxilinx_experiment2 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" sub00/vhpl02 1508876597
+AR fjkc_mxilinx_experiment2 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" sub00/vhpl03 1508876598
+AR dcm_50m behavioral "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl01 1508876596
+EN experiment2 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" sub00/vhpl04 1508876599

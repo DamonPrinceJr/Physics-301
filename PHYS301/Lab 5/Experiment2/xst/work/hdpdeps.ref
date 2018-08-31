@@ -1,0 +1,24 @@
+V3 14
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/FA.vhf" 2017/09/26.14:25:22 P.20131013
+EN work/FA 1506462361 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA/BEHAVIORAL 1506462362 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/FA.vhf" \
+      EN work/FA 1506462361 CP XOR2 CP NAND2
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" 2017/09/26.14:45:54 P.20131013
+EN work/FA_MUSER_PFA 1506462357 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_PFA/BEHAVIORAL 1506462358 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" \
+      EN work/FA_MUSER_PFA 1506462357 CP XOR2 CP NAND2
+EN work/PFA 1506462359 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/PFA/BEHAVIORAL 1506462360 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" \
+      EN work/PFA 1506462359 CP FA_MUSER_PFA CP XOR2 CP AND2 CP INV

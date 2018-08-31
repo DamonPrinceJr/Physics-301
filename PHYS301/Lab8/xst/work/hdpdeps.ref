@@ -1,0 +1,14 @@
+V3 10
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment1.vhf" 2017/10/24.13:10:06 P.20131013
+EN work/Experiment1 1508875811 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment1/BEHAVIORAL 1508875812 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment1.vhf" \
+      EN work/Experiment1 1508875811 CP FD CP INV CP DCM_50M
+FL "C:/Users/Big D/Downloads/DCM_50M.vhd" 2017/10/05.12:26:13 P.20131013
+EN work/DCM_50M 1508875809 FL "C:/Users/Big D/Downloads/DCM_50M.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DCM_50M/Behavioral 1508875810 \
+      FL "C:/Users/Big D/Downloads/DCM_50M.vhd" EN work/DCM_50M 1508875809

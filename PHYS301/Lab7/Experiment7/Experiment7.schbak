@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drawing version="7">
+    <attr value="spartan3e" name="DeviceFamilyName">
+        <trait delete="all:0" />
+        <trait editname="all:0" />
+        <trait edittrait="all:0" />
+    </attr>
+    <netlist>
+        <signal name="Q0" />
+        <signal name="Q1" />
+        <signal name="Q2" />
+        <signal name="XLXN_5" />
+        <signal name="XLXN_6" />
+        <signal name="XLXN_7" />
+        <signal name="CLK" />
+        <signal name="XLXN_9" />
+        <signal name="Q3" />
+        <signal name="XLXN_11" />
+        <signal name="XLXN_12" />
+        <signal name="CLR" />
+        <port polarity="Output" name="Q0" />
+        <port polarity="Output" name="Q1" />
+        <port polarity="Output" name="Q2" />
+        <port polarity="Input" name="CLK" />
+        <port polarity="Output" name="Q3" />
+        <port polarity="Input" name="CLR" />
+        <blockdef name="fdrs">
+            <timestamp>2000-1-1T10:10:10</timestamp>
+            <line x2="64" y1="-128" y2="-128" x1="0" />
+            <line x2="64" y1="-256" y2="-256" x1="0" />
+            <line x2="320" y1="-256" y2="-256" x1="384" />
+            <line x2="64" y1="-32" y2="-32" x1="0" />
+            <line x2="64" y1="-352" y2="-352" x1="0" />
+            <rect width="256" x="64" y="-320" height="256" />
+            <line x2="192" y1="-64" y2="-32" x1="192" />
+            <line x2="64" y1="-32" y2="-32" x1="192" />
+            <line x2="80" y1="-112" y2="-128" x1="64" />
+            <line x2="64" y1="-128" y2="-144" x1="80" />
+            <line x2="192" y1="-320" y2="-352" x1="192" />
+            <line x2="64" y1="-352" y2="-352" x1="192" />
+        </blockdef>
+        <block symbolname="fdrs" name="XLXI_1">
+            <blockpin signalname="CLK" name="C" />
+            <blockpin signalname="Q3" name="D" />
+            <blockpin name="R" />
+            <blockpin signalname="CLR" name="S" />
+            <blockpin signalname="Q0" name="Q" />
+        </block>
+        <block symbolname="fdrs" name="XLXI_2">
+            <blockpin signalname="CLK" name="C" />
+            <blockpin signalname="Q0" name="D" />
+            <blockpin signalname="CLR" name="R" />
+            <blockpin name="S" />
+            <blockpin signalname="Q1" name="Q" />
+        </block>
+        <block symbolname="fdrs" name="XLXI_3">
+            <blockpin signalname="CLK" name="C" />
+            <blockpin signalname="Q2" name="D" />
+            <blockpin signalname="CLR" name="R" />
+            <blockpin name="S" />
+            <blockpin signalname="Q3" name="Q" />
+        </block>
+        <block symbolname="fdrs" name="XLXI_4">
+            <blockpin signalname="CLK" name="C" />
+            <blockpin signalname="Q1" name="D" />
+            <blockpin signalname="CLR" name="R" />
+            <blockpin name="S" />
+            <blockpin signalname="Q2" name="Q" />
+        </block>
+    </netlist>
+    <sheet sheetnum="1" width="3520" height="2720">
+        <instance x="976" y="928" name="XLXI_2" orien="R0" />
+        <branch name="Q0">
+            <wire x2="896" y1="672" y2="672" x1="864" />
+            <wire x2="976" y1="672" y2="672" x1="896" />
+            <wire x2="896" y1="608" y2="672" x1="896" />
+        </branch>
+        <instance x="480" y="928" name="XLXI_1" orien="R0" />
+        <branch name="Q1">
+            <wire x2="1408" y1="672" y2="672" x1="1360" />
+            <wire x2="1488" y1="672" y2="672" x1="1408" />
+            <wire x2="1408" y1="608" y2="672" x1="1408" />
+        </branch>
+        <instance x="1488" y="928" name="XLXI_4" orien="R0" />
+        <branch name="Q2">
+            <wire x2="1888" y1="672" y2="672" x1="1872" />
+            <wire x2="1984" y1="672" y2="672" x1="1888" />
+            <wire x2="1888" y1="624" y2="672" x1="1888" />
+        </branch>
+        <instance x="1984" y="928" name="XLXI_3" orien="R0" />
+        <branch name="CLK">
+            <wire x2="416" y1="1024" y2="1024" x1="256" />
+            <wire x2="896" y1="1024" y2="1024" x1="416" />
+            <wire x2="1408" y1="1024" y2="1024" x1="896" />
+            <wire x2="1904" y1="1024" y2="1024" x1="1408" />
+            <wire x2="480" y1="800" y2="800" x1="416" />
+            <wire x2="416" y1="800" y2="1024" x1="416" />
+            <wire x2="976" y1="800" y2="800" x1="896" />
+            <wire x2="896" y1="800" y2="1024" x1="896" />
+            <wire x2="1488" y1="800" y2="800" x1="1408" />
+            <wire x2="1408" y1="800" y2="1024" x1="1408" />
+            <wire x2="1984" y1="800" y2="800" x1="1904" />
+            <wire x2="1904" y1="800" y2="1024" x1="1904" />
+        </branch>
+        <branch name="Q3">
+            <wire x2="416" y1="480" y2="672" x1="416" />
+            <wire x2="480" y1="672" y2="672" x1="416" />
+            <wire x2="2384" y1="480" y2="480" x1="416" />
+            <wire x2="2384" y1="480" y2="672" x1="2384" />
+            <wire x2="2448" y1="672" y2="672" x1="2384" />
+            <wire x2="2384" y1="672" y2="672" x1="2368" />
+        </branch>
+        <iomarker fontsize="28" x="256" y="1024" name="CLK" orien="R180" />
+        <branch name="CLR">
+            <wire x2="368" y1="960" y2="960" x1="256" />
+            <wire x2="976" y1="960" y2="960" x1="368" />
+            <wire x2="1488" y1="960" y2="960" x1="976" />
+            <wire x2="1984" y1="960" y2="960" x1="1488" />
+            <wire x2="480" y1="576" y2="576" x1="368" />
+            <wire x2="368" y1="576" y2="960" x1="368" />
+            <wire x2="976" y1="896" y2="960" x1="976" />
+            <wire x2="1488" y1="896" y2="912" x1="1488" />
+            <wire x2="1488" y1="912" y2="960" x1="1488" />
+            <wire x2="1984" y1="896" y2="960" x1="1984" />
+        </branch>
+        <iomarker fontsize="28" x="256" y="960" name="CLR" orien="R180" />
+        <iomarker fontsize="28" x="896" y="608" name="Q0" orien="R270" />
+        <iomarker fontsize="28" x="1408" y="608" name="Q1" orien="R270" />
+        <iomarker fontsize="28" x="1888" y="624" name="Q2" orien="R270" />
+        <iomarker fontsize="28" x="2448" y="672" name="Q3" orien="R0" />
+    </sheet>
+</drawing>

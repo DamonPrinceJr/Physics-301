@@ -1,0 +1,14 @@
+
+
+NET "Ain[0]" LOC = P11;
+NET "Ain[1]" LOC = L3;
+NET "Ain[2]" LOC = K3;
+NET "Ain[3]" LOC = B4;
+NET "A" LOC = B2;
+NET "B" LOC = A3;
+NET "C" LOC = J3;
+NET "D" LOC = B5;
+NET "E" LOC = A9;
+
+
+NET "butts" LOC = C5;

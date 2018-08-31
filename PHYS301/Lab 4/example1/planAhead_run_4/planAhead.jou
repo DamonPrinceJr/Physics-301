@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue Sep 19 14:03:06 2017
+# Process ID: 8776
+# Log file: C:/Users/Big D/example1/planAhead_run_4/planAhead.log
+# Journal file: C:/Users/Big D/example1/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Big D/example1/pa.fromNetlist.tcl}
+startgroup
+set_property package_pin M11 [get_ports Co]
+endgroup
+save_constraints

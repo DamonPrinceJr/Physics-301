@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drawing version="7">
+    <attr value="spartan3e" name="DeviceFamilyName">
+        <trait delete="all:0" />
+        <trait editname="all:0" />
+        <trait edittrait="all:0" />
+    </attr>
+    <netlist>
+        <signal name="Din" />
+        <signal name="Q(0)" />
+        <signal name="XLXN_4" />
+        <signal name="Q(2)" />
+        <signal name="CLKin" />
+        <signal name="Q(0:3)" />
+        <signal name="Q(1)" />
+        <signal name="Q(3)" />
+        <port polarity="Input" name="Din" />
+        <port polarity="Input" name="CLKin" />
+        <port polarity="Output" name="Q(0:3)" />
+        <blockdef name="fd">
+            <timestamp>2000-1-1T10:10:10</timestamp>
+            <rect width="256" x="64" y="-320" height="256" />
+            <line x2="64" y1="-128" y2="-128" x1="0" />
+            <line x2="64" y1="-256" y2="-256" x1="0" />
+            <line x2="320" y1="-256" y2="-256" x1="384" />
+            <line x2="64" y1="-128" y2="-144" x1="80" />
+            <line x2="80" y1="-112" y2="-128" x1="64" />
+        </blockdef>
+        <block symbolname="fd" name="XLXI_1">
+            <blockpin signalname="CLKin" name="C" />
+            <blockpin signalname="Din" name="D" />
+            <blockpin signalname="Q(0)" name="Q" />
+        </block>
+        <block symbolname="fd" name="XLXI_2">
+            <blockpin signalname="CLKin" name="C" />
+            <blockpin signalname="Q(0)" name="D" />
+            <blockpin signalname="Q(1)" name="Q" />
+        </block>
+        <block symbolname="fd" name="XLXI_3">
+            <blockpin signalname="CLKin" name="C" />
+            <blockpin signalname="Q(1)" name="D" />
+            <blockpin signalname="Q(2)" name="Q" />
+        </block>
+        <block symbolname="fd" name="XLXI_4">
+            <blockpin signalname="CLKin" name="C" />
+            <blockpin signalname="Q(2)" name="D" />
+            <blockpin signalname="Q(3)" name="Q" />
+        </block>
+    </netlist>
+    <sheet sheetnum="1" width="3520" height="2720">
+        <instance x="592" y="1088" name="XLXI_1" orien="R0" />
+        <instance x="1216" y="1056" name="XLXI_2" orien="R0" />
+        <instance x="1856" y="1040" name="XLXI_3" orien="R0" />
+        <instance x="2512" y="1008" name="XLXI_4" orien="R0" />
+        <branch name="Din">
+            <wire x2="224" y1="816" y2="832" x1="224" />
+            <wire x2="592" y1="832" y2="832" x1="224" />
+        </branch>
+        <branch name="Q(0)">
+            <wire x2="1088" y1="832" y2="832" x1="976" />
+            <wire x2="1088" y1="800" y2="832" x1="1088" />
+            <wire x2="1136" y1="800" y2="800" x1="1088" />
+            <wire x2="1216" y1="800" y2="800" x1="1136" />
+            <wire x2="1136" y1="368" y2="800" x1="1136" />
+        </branch>
+        <branch name="Q(2)">
+            <wire x2="2368" y1="784" y2="784" x1="2240" />
+            <wire x2="2368" y1="752" y2="784" x1="2368" />
+            <wire x2="2400" y1="752" y2="752" x1="2368" />
+            <wire x2="2512" y1="752" y2="752" x1="2400" />
+            <wire x2="2400" y1="368" y2="752" x1="2400" />
+        </branch>
+        <branch name="CLKin">
+            <wire x2="256" y1="960" y2="992" x1="256" />
+            <wire x2="480" y1="960" y2="960" x1="256" />
+            <wire x2="592" y1="960" y2="960" x1="480" />
+            <wire x2="480" y1="960" y2="1216" x1="480" />
+            <wire x2="848" y1="1216" y2="1216" x1="480" />
+            <wire x2="1424" y1="1216" y2="1216" x1="848" />
+            <wire x2="2304" y1="1216" y2="1216" x1="1424" />
+            <wire x2="1040" y1="1088" y2="1088" x1="848" />
+            <wire x2="848" y1="1088" y2="1216" x1="848" />
+            <wire x2="1040" y1="928" y2="1088" x1="1040" />
+            <wire x2="1216" y1="928" y2="928" x1="1040" />
+            <wire x2="1664" y1="1040" y2="1040" x1="1424" />
+            <wire x2="1424" y1="1040" y2="1216" x1="1424" />
+            <wire x2="1664" y1="912" y2="1040" x1="1664" />
+            <wire x2="1856" y1="912" y2="912" x1="1664" />
+            <wire x2="2512" y1="880" y2="880" x1="2304" />
+            <wire x2="2304" y1="880" y2="1216" x1="2304" />
+        </branch>
+        <iomarker fontsize="28" x="224" y="816" name="Din" orien="R270" />
+        <iomarker fontsize="28" x="256" y="992" name="CLKin" orien="R90" />
+        <bustap x2="1136" y1="272" y2="368" x1="1136" />
+        <bustap x2="1744" y1="272" y2="368" x1="1744" />
+        <bustap x2="2400" y1="272" y2="368" x1="2400" />
+        <bustap x2="3056" y1="272" y2="368" x1="3056" />
+        <branch name="Q(1)">
+            <wire x2="1728" y1="800" y2="800" x1="1600" />
+            <wire x2="1728" y1="784" y2="800" x1="1728" />
+            <wire x2="1744" y1="784" y2="784" x1="1728" />
+            <wire x2="1856" y1="784" y2="784" x1="1744" />
+            <wire x2="1744" y1="368" y2="768" x1="1744" />
+            <wire x2="1744" y1="768" y2="784" x1="1744" />
+        </branch>
+        <branch name="Q(3)">
+            <wire x2="3056" y1="752" y2="752" x1="2896" />
+            <wire x2="3056" y1="368" y2="752" x1="3056" />
+        </branch>
+        <iomarker fontsize="28" x="3344" y="272" name="Q(0:3)" orien="R0" />
+        <branch name="Q(0:3)">
+            <wire x2="1744" y1="272" y2="272" x1="1136" />
+            <wire x2="2400" y1="272" y2="272" x1="1744" />
+            <wire x2="3056" y1="272" y2="272" x1="2400" />
+            <wire x2="3344" y1="272" y2="272" x1="3056" />
+        </branch>
+    </sheet>
+</drawing>

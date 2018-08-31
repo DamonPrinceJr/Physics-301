@@ -1,0 +1,15 @@
+V3 9
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/d4_16en.vhd" 2017/09/28.14:47:31 P.20131013
+EN work/d4_16en 1507068044 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/d4_16en.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/d4_16en/Behavioral 1507068045 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/d4_16en.vhd" EN work/d4_16en 1507068044
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment1/experiment1.vhf" 2017/10/03.15:00:11 P.20131013
+EN work/experiment1 1507068046 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment1/experiment1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/experiment1/BEHAVIORAL 1507068047 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment1/experiment1.vhf" \
+      EN work/experiment1 1507068046 CP d4_16en CP AND2

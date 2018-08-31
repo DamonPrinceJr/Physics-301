@@ -1,0 +1,7 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "SysClk" LOC = B8;
+NET "Q2" LOC = N4;
+NET "Q" LOC = P4;
+NET "Clk1" LOC = G1;

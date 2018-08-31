@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drawing version="7">
+    <attr value="spartan3e" name="DeviceFamilyName">
+        <trait delete="all:0" />
+        <trait editname="all:0" />
+        <trait edittrait="all:0" />
+    </attr>
+    <netlist>
+        <signal name="XLXN_17" />
+        <signal name="XLXN_18" />
+        <signal name="XLXN_19" />
+        <signal name="XLXN_20" />
+        <signal name="XLXN_21" />
+        <port polarity="Output" name="XLXN_17" />
+        <port polarity="Input" name="XLXN_18" />
+        <port polarity="Input" name="XLXN_19" />
+        <port polarity="Input" name="XLXN_20" />
+        <port polarity="Input" name="XLXN_21" />
+        <blockdef name="fjkc">
+            <timestamp>2000-1-1T10:10:10</timestamp>
+            <line x2="64" y1="-128" y2="-128" x1="0" />
+            <line x2="64" y1="-32" y2="-32" x1="0" />
+            <line x2="64" y1="-320" y2="-320" x1="0" />
+            <line x2="320" y1="-256" y2="-256" x1="384" />
+            <line x2="64" y1="-256" y2="-256" x1="0" />
+            <line x2="64" y1="-32" y2="-32" x1="192" />
+            <line x2="192" y1="-64" y2="-32" x1="192" />
+            <line x2="64" y1="-128" y2="-144" x1="80" />
+            <line x2="80" y1="-112" y2="-128" x1="64" />
+            <rect width="256" x="64" y="-384" height="320" />
+        </blockdef>
+        <block symbolname="fjkc" name="XLXI_2">
+            <blockpin signalname="XLXN_20" name="C" />
+            <blockpin signalname="XLXN_21" name="CLR" />
+            <blockpin signalname="XLXN_18" name="J" />
+            <blockpin signalname="XLXN_19" name="K" />
+            <blockpin signalname="XLXN_17" name="Q" />
+        </block>
+    </netlist>
+    <sheet sheetnum="1" width="3520" height="2720">
+        <instance x="1216" y="2032" name="XLXI_2" orien="R0" />
+        <branch name="XLXN_17">
+            <wire x2="1632" y1="1776" y2="1776" x1="1600" />
+        </branch>
+        <iomarker fontsize="28" x="1632" y="1776" name="XLXN_17" orien="R0" />
+        <branch name="XLXN_18">
+            <wire x2="1216" y1="1712" y2="1712" x1="1184" />
+        </branch>
+        <iomarker fontsize="28" x="1184" y="1712" name="XLXN_18" orien="R180" />
+        <branch name="XLXN_19">
+            <wire x2="1216" y1="1776" y2="1776" x1="1184" />
+        </branch>
+        <iomarker fontsize="28" x="1184" y="1776" name="XLXN_19" orien="R180" />
+        <branch name="XLXN_20">
+            <wire x2="1216" y1="1904" y2="1904" x1="1184" />
+        </branch>
+        <iomarker fontsize="28" x="1184" y="1904" name="XLXN_20" orien="R180" />
+        <branch name="XLXN_21">
+            <wire x2="1216" y1="2000" y2="2000" x1="1184" />
+        </branch>
+        <iomarker fontsize="28" x="1184" y="2000" name="XLXN_21" orien="R180" />
+    </sheet>
+</drawing>

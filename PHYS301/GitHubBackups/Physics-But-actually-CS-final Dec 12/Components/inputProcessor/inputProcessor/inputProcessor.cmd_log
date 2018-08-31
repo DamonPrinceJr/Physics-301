@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/Components/inputProcessor/inputProcessor/inputProcessor.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/Components/inputProcessor/inputProcessor/inputProcessor.syr" 

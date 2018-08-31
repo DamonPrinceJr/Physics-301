@@ -1,0 +1,37 @@
+
+NET "Ain[0]" LOC = G3;
+NET "Ain[1]" LOC = F3;
+NET "Ain[2]" LOC = E2;
+NET "Ain[3]" LOC = N3;
+NET "CLK" LOC = B8;
+
+
+NET "Push3" LOC = C11;
+NET "PushA" LOC = A7;
+NET "PushD" LOC = M4;
+
+
+NET "Q0" LOC = N5;
+NET "Q1" LOC = N4;
+NET "Q3" LOC = P4;
+NET "Q4" LOC = G1;
+
+
+NET "Push4" LOC = G12;
+
+
+NET "sseg[7]" LOC = N13;
+NET "sseg[6]" LOC = L14;
+NET "sseg[5]" LOC = H12;
+NET "sseg[4]" LOC = N14;
+NET "sseg[3]" LOC = N11;
+NET "sseg[2]" LOC = P12;
+NET "sseg[1]" LOC = L13;
+NET "sseg[0]" LOC = M12;
+NET "anO[3]" LOC = K14;
+NET "anO[2]" LOC = M13;
+NET "anO[1]" LOC = J12;
+NET "anO[0]" LOC = F12;
+
+
+NET "En" LOC = P11;

@@ -1,0 +1,23 @@
+V3 19
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" 2017/10/24.13:23:12 P.20131013
+EN work/FJKC_MXILINX_Experiment2 1508876597 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FJKC_MXILINX_Experiment2/BEHAVIORAL 1508876598 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" \
+      EN work/FJKC_MXILINX_Experiment2 1508876597 CP FDC CP AND3B2 CP AND3B1 CP OR3 \
+      CP AND2B1
+EN work/Experiment2 1508876599 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment2/BEHAVIORAL 1508876600 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/Experiment2.vhf" \
+      EN work/Experiment2 1508876599 CP FJKC_MXILINX_Experiment2 CP GND CP PULLUP \
+      CP DCM_50M CP FD
+FL "C:/Users/Big D/Downloads/DCM_50M.vhd" 2017/10/05.12:26:13 P.20131013
+EN work/DCM_50M 1508876595 FL "C:/Users/Big D/Downloads/DCM_50M.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DCM_50M/Behavioral 1508876596 \
+      FL "C:/Users/Big D/Downloads/DCM_50M.vhd" EN work/DCM_50M 1508876595

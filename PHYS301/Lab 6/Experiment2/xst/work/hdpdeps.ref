@@ -1,0 +1,21 @@
+V3 12
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment2/Experiment2.vhf" 2017/10/10.13:04:59 P.20131013
+EN work/Experiment2 1507665907 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment2/Experiment2.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment2/BEHAVIORAL 1507665908 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment2/Experiment2.vhf" \
+      EN work/Experiment2 1507665907 CP SSD_1dig CP mux4SSD
+FL "C:/Users/Big D/Downloads/mux4SSD.vhd" 2017/10/03.18:45:21 P.20131013
+EN work/mux4SSD 1507665905 FL "C:/Users/Big D/Downloads/mux4SSD.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mux4SSD/Behavioral 1507665906 \
+      FL "C:/Users/Big D/Downloads/mux4SSD.vhd" EN work/mux4SSD 1507665905
+FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" 2017/10/03.15:14:50 P.20131013
+EN work/SSD_1dig 1507665903 FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSD_1dig/Behavioral 1507665904 \
+      FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" EN work/SSD_1dig 1507665903

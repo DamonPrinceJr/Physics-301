@@ -1,0 +1,6 @@
+EN fa_muser_pfa NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" sub00/vhpl00 1506462357
+EN fa NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/FA.vhf" sub00/vhpl04 1506462361
+AR fa_muser_pfa behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" sub00/vhpl01 1506462358
+AR pfa behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" sub00/vhpl03 1506462360
+AR fa behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/FA.vhf" sub00/vhpl05 1506462362
+EN pfa NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment2/PFA.vhf" sub00/vhpl02 1506462359

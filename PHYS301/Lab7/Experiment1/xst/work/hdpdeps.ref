@@ -1,0 +1,9 @@
+V3 5
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment1/Experiment1.vhf" 2017/10/10.13:49:57 P.20131013
+EN work/Experiment1 1507668601 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment1/Experiment1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Experiment1/BEHAVIORAL 1507668602 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment1/Experiment1.vhf" \
+      EN work/Experiment1 1507668601 CP NOR2

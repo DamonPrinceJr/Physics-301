@@ -1,0 +1,14 @@
+EN dcm_50m NULL "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl00 1509052398
+EN sel_strobeb NULL "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl10 1509052400
+AR experiment4 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl09 1509052079
+AR fjkpe_mxilinx_experiment4 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl05 1509052075
+AR fjkce_mxilinx_experiment4 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl03 1509052073
+EN fjkc_mxilinx_experiment4 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl06 1509052076
+AR sel_strobeb behavioral "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl11 1509052401
+AR experiment3 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.vhf" sub00/vhpl13 1509052403
+EN fjkce_mxilinx_experiment4 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl02 1509052072
+AR fjkc_mxilinx_experiment4 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl07 1509052077
+EN fjkpe_mxilinx_experiment4 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl04 1509052074
+AR dcm_50m behavioral "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl01 1509052399
+EN experiment3 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.vhf" sub00/vhpl12 1509052402
+EN experiment4 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment4.vhf" sub00/vhpl08 1509052078

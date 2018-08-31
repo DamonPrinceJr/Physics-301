@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;clkOut&quot; LOC = G1;&gt; [Experiment4.ucf(4)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">clkOut</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;clkOut&quot; LOC = G1;&gt; [Experiment4.ucf(4)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;CLR&quot; LOC = G12;&gt; [Experiment4.ucf(5)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">CLR</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;CLR&quot; LOC = G12;&gt; [Experiment4.ucf(5)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;Q1&quot; LOC = M5;&gt; [Experiment4.ucf(6)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">Q1</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;Q1&quot; LOC = M5;&gt; [Experiment4.ucf(6)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;Q2&quot; LOC = M11;&gt; [Experiment4.ucf(7)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">Q2</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;Q2&quot; LOC = M11;&gt; [Experiment4.ucf(7)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET &quot;Q3&quot; LOC = P7;&gt; [Experiment4.ucf(8)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">Q3</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;Q3&quot; LOC = P7;&gt; [Experiment4.ucf(8)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="NgdBuild" num="604" delta="old" ><arg fmt="%s" index="1">logical</arg> block &apos;<arg fmt="%s" index="2">XLXI_46</arg>&apos; with type &apos;<arg fmt="%s" index="3">SSD_1dig</arg>&apos; could not be resolved. A pin name misspelling can cause this, a missing edif or ngc file, case mismatch between the block name and the edif or ngc file name, or the misspelling of a type name. Symbol &apos;<arg fmt="%s" index="4">SSD_1dig</arg>&apos; is not supported in target &apos;<arg fmt="%s" index="5">spartan3e</arg>&apos;.
+</msg>
+
+<msg type="error" file="NgdBuild" num="604" delta="old" ><arg fmt="%s" index="1">logical</arg> block &apos;<arg fmt="%s" index="2">XLXI_47</arg>&apos; with type &apos;<arg fmt="%s" index="3">bin2BCD3en</arg>&apos; could not be resolved. A pin name misspelling can cause this, a missing edif or ngc file, case mismatch between the block name and the edif or ngc file name, or the misspelling of a type name. Symbol &apos;<arg fmt="%s" index="4">bin2BCD3en</arg>&apos; is not supported in target &apos;<arg fmt="%s" index="5">spartan3e</arg>&apos;.
+</msg>
+
+<msg type="error" file="NgdBuild" num="604" delta="old" ><arg fmt="%s" index="1">logical</arg> block &apos;<arg fmt="%s" index="2">XLXI_49</arg>&apos; with type &apos;<arg fmt="%s" index="3">mux4SSD</arg>&apos; could not be resolved. A pin name misspelling can cause this, a missing edif or ngc file, case mismatch between the block name and the edif or ngc file name, or the misspelling of a type name. Symbol &apos;<arg fmt="%s" index="4">mux4SSD</arg>&apos; is not supported in target &apos;<arg fmt="%s" index="5">spartan3e</arg>&apos;.
+</msg>
+
+</messages>
+

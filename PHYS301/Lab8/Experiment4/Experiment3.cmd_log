@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment4.ucf -p xc3s100e-cp132-4 "Experiment3.ngc" Experiment3.ngd  
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment4.ucf -p xc3s100e-cp132-4 "Experiment3.ngc" Experiment3.ngd  
+sch2sym -intstyle ise -family spartan3e -w -refsym Experiment3 {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment3/Experiment3.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment4/Experiment3.sym} 

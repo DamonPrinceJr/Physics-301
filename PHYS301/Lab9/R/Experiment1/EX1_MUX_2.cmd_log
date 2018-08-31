@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym EX1_MUX_2 {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab9/R/Experiment1/EX1_MUX_2.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab9/R/Experiment1/EX1_MUX_2.sym} 

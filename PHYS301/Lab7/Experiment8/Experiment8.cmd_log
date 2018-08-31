@@ -1,0 +1,19 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "Experiment8.ngc" Experiment8.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment8_map.ncd Experiment8.ngd Experiment8.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment8_map.ncd Experiment8.ncd Experiment8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment8.twx Experiment8.ncd -o Experiment8.twr Experiment8.pcf 
+bitgen -intstyle ise -f Experiment8.ut Experiment8.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment8/Experiment8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment8.ucf -p xc3s100e-cp132-4 "Experiment8.ngc" Experiment8.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment8_map.ncd Experiment8.ngd Experiment8.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment8_map.ncd Experiment8.ncd Experiment8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment8.twx Experiment8.ncd -o Experiment8.twr Experiment8.pcf -ucf Experiment8.ucf 
+bitgen -intstyle ise -f Experiment8.ut Experiment8.ncd 

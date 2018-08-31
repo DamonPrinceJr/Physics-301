@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Interface Version="1" Minor="1">
+	<Ifc Id="ROOT" Top="1">
+		<Bus Id="sseg">
+			<Port Id="7" Dir="OUT"/>
+			<Port Id="6" Dir="OUT"/>
+			<Port Id="5" Dir="OUT"/>
+			<Port Id="4" Dir="OUT"/>
+			<Port Id="3" Dir="OUT"/>
+			<Port Id="2" Dir="OUT"/>
+			<Port Id="1" Dir="OUT"/>
+			<Port Id="0" Dir="OUT"/>
+		</Bus>
+		<Bus Id="anO">
+			<Port Id="3" Dir="OUT"/>
+			<Port Id="2" Dir="OUT"/>
+			<Port Id="1" Dir="OUT"/>
+			<Port Id="0" Dir="OUT"/>
+		</Bus>
+		<Port Id="BOOBOO_ET_Q" Dir="OUT"/>
+		<Port Id="timer_out1" Dir="OUT"/>
+		<Port Id="timer_out2" Dir="OUT"/>
+		<Port Id="timer_out8" Dir="OUT"/>
+		<Port Id="BOOBOO_ST_Q" Dir="OUT"/>
+		<Port Id="SNAGGLE_TX_OUT" Dir="OUT"/>
+		<Port Id="RANGER_EN_Q" Dir="OUT"/>
+		<Port Id="YOGI_ET_Q" Dir="OUT"/>
+		<Port Id="YOGI_ST_Q" Dir="OUT"/>
+		<Port Id="RANGER_RD_Q" Dir="OUT"/>
+		<Port Id="CRY_CLK" Dir="IN"/>
+		<Port Id="count_Q0" Dir="OUT"/>
+		<Port Id="count_Q1" Dir="OUT"/>
+		<Port Id="count_Q2" Dir="OUT"/>
+		<Port Id="count_Q3" Dir="OUT"/>
+		<Port Id="Timer_4" Dir="OUT"/>
+		<Port Id="SYS_CLK" Dir="IN"/>
+		<Port Id="SNAGGLE_RX_OUT" Dir="OUT"/>
+	</Ifc>
+</Interface>
+

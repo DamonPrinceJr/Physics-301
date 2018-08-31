@@ -1,0 +1,2 @@
+vhdtdtfi -lib work ../../../../../Downloads/col_strobe.vhd -prj Experiment4 -o col_strobe.spl -module col_strobe -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e col_strobe.spl {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment4/col_strobe.sym} 

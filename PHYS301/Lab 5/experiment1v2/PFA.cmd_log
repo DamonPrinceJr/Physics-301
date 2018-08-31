@@ -1,0 +1,5 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PFA_drc.vhf -w {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.sch} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PFA_drc.vhf -w {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.sch} 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/experiment1/PFA.syr" 

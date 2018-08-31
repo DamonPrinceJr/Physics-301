@@ -1,0 +1,14 @@
+EN dcm_50m NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/DCM_50M.vhd" sub00/vhpl02 1513119688
+EN ssd_1dig NULL "C:/Users/Big D/Documents/GitHub/Physics-But-actually-CS-final/downloads/SSD_1dig.vhd" sub00/vhpl04 1512687138
+EN sel_strobeb NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/sel_strobeB.vhd" sub00/vhpl10 1513119694
+AR mux4ssd behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/mux4SSD.vhd" sub00/vhpl07 1513119691
+AR crenc4bin behavioral "C:/Users/Big D/Downloads/CRenc4bin.vhd" sub00/vhpl01 1513119687
+AR decoder behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/Components/Decoder/Decoder.vhf" sub00/vhpl13 1513119697
+EN bin2bcd3en NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/bin2BCD3en.vhd" sub00/vhpl08 1513119692
+AR ssd_1dig behavioral "C:/Users/Big D/Documents/GitHub/Physics-But-actually-CS-final/downloads/SSD_1dig.vhd" sub00/vhpl05 1512687139
+AR sel_strobeb behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/sel_strobeB.vhd" sub00/vhpl11 1513119695
+EN mux4ssd NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/mux4SSD.vhd" sub00/vhpl06 1513119690
+EN decoder NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/Components/Decoder/Decoder.vhf" sub00/vhpl12 1513119696
+AR bin2bcd3en behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/bin2BCD3en.vhd" sub00/vhpl09 1513119693
+EN crenc4bin NULL "C:/Users/Big D/Downloads/CRenc4bin.vhd" sub00/vhpl00 1513119686
+AR dcm_50m behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/GitHubBackups/Physics-But-actually-CS-final Dec 12/downloads/DCM_50M.vhd" sub00/vhpl03 1513119689

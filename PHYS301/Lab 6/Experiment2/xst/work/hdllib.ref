@@ -1,0 +1,6 @@
+EN ssd_1dig NULL "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl00 1507665903
+AR experiment2 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment2/Experiment2.vhf" sub00/vhpl05 1507665908
+AR mux4ssd behavioral "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl03 1507665906
+AR ssd_1dig behavioral "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl01 1507665904
+EN mux4ssd NULL "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl02 1507665905
+EN experiment2 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment2/Experiment2.vhf" sub00/vhpl04 1507665907

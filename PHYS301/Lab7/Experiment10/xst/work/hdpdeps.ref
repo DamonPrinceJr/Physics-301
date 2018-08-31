@@ -1,0 +1,21 @@
+V3 17
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" 2017/10/19.15:17:35 P.20131013
+AR work/FJKCE_MXILINX_EXperiment10/BEHAVIORAL 1508450733 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" \
+      EN work/FJKCE_MXILINX_EXperiment10 1508450732 CP FDCE CP AND3B2 CP AND3B1 \
+      CP OR3 CP AND2B1
+EN work/FJKPE_MXILINX_EXperiment10 1508451458 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FJKPE_MXILINX_EXperiment10/BEHAVIORAL 1508451459 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" \
+      EN work/FJKPE_MXILINX_EXperiment10 1508451458 CP FDPE CP AND3B2 CP AND3B1 \
+      CP OR3 CP AND2B1
+EN work/EXperiment10 1508451460 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/EXperiment10/BEHAVIORAL 1508451461 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment10/EXperiment10.vhf" \
+      EN work/EXperiment10 1508451460 CP AND2 CP FJKPE_MXILINX_EXperiment10

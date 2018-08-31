@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -refsym HalfAdder {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab9/R/Experiment3/HalfAdder.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab9/R/Experiment3/HalfAdder.sym} 

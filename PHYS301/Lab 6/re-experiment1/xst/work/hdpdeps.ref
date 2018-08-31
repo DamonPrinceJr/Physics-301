@@ -1,0 +1,15 @@
+V3 8
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/re-experiment1/reexperiment1.vhf" 2017/10/04.16:34:38 P.20131013
+EN work/reexperiment1 1507160084 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/re-experiment1/reexperiment1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/reexperiment1/BEHAVIORAL 1507160085 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/re-experiment1/reexperiment1.vhf" \
+      EN work/reexperiment1 1507160084 CP SSD_1dig
+FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" 2017/10/03.15:14:50 P.20131013
+EN work/SSD_1dig 1507160082 FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSD_1dig/Behavioral 1507160083 \
+      FL "C:/Users/Big D/Downloads/SSD_1dig.vhd" EN work/SSD_1dig 1507160082

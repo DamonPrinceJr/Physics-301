@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym butts {C:/Users/Big D/Documents/CSUSM/PHYS301/sandbox/butts.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/butts.sym} 

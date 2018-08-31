@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Interface Version="1" Minor="1">
+	<Ifc Id="ROOT" Top="1">
+		<Bus Id="sseg">
+			<Port Id="7" Dir="OUT"/>
+			<Port Id="6" Dir="OUT"/>
+			<Port Id="5" Dir="OUT"/>
+			<Port Id="4" Dir="OUT"/>
+			<Port Id="3" Dir="OUT"/>
+			<Port Id="2" Dir="OUT"/>
+			<Port Id="1" Dir="OUT"/>
+			<Port Id="0" Dir="OUT"/>
+		</Bus>
+		<Bus Id="anO">
+			<Port Id="3" Dir="OUT"/>
+			<Port Id="2" Dir="OUT"/>
+			<Port Id="1" Dir="OUT"/>
+			<Port Id="0" Dir="OUT"/>
+		</Bus>
+		<Bus Id="Ain">
+			<Port Id="3" Dir="IN"/>
+			<Port Id="2" Dir="IN"/>
+			<Port Id="1" Dir="IN"/>
+			<Port Id="0" Dir="IN"/>
+		</Bus>
+		<Port Id="Push3" Dir="IN"/>
+		<Port Id="Push4" Dir="IN"/>
+		<Port Id="CLK" Dir="IN"/>
+		<Port Id="PushA" Dir="IN"/>
+		<Port Id="PushD" Dir="IN"/>
+		<Port Id="Q0" Dir="OUT"/>
+		<Port Id="Q1" Dir="OUT"/>
+		<Port Id="Q3" Dir="OUT"/>
+		<Port Id="Q4" Dir="OUT"/>
+	</Ifc>
+</Interface>
+

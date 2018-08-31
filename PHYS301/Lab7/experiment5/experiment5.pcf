@@ -1,0 +1,14 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Oct 12 13:08:50 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "notQ" LOCATE = SITE "M11" LEVEL 1;
+COMP "X1" LOCATE = SITE "G1" LEVEL 1;
+COMP "X2" LOCATE = SITE "P4" LEVEL 1;
+COMP "X3" LOCATE = SITE "N4" LEVEL 1;
+COMP "CLKin" LOCATE = SITE "N3" LEVEL 1;
+COMP "Q" LOCATE = SITE "M5" LEVEL 1;
+COMP "Din" LOCATE = SITE "P11" LEVEL 1;
+SCHEMATIC END;
+

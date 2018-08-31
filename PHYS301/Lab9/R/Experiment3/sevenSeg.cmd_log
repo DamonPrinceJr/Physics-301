@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -refsym sevenSeg {C:/Users/Big D/Documents/CSUSM/PHYS301/Folder for SevenSeg/SevenSeg/sevenSeg.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab9/R/Experiment3/sevenSeg.sym} 

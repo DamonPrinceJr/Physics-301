@@ -1,0 +1,24 @@
+V3 12
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/addr2b.vhf" 2017/09/21.14:37:01 P.20131013
+EN work/FA_MUSER_addr2b 1506029825 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/addr2b.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_addr2b/BEHAVIORAL 1506029826 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/addr2b.vhf" \
+      EN work/FA_MUSER_addr2b 1506029825 CP NAND2 CP XOR2
+EN work/addr2b 1506029827 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/addr2b.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/addr2b/BEHAVIORAL 1506029828 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/addr2b.vhf" \
+      EN work/addr2b 1506029827 CP FA_MUSER_addr2b
+FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.vhf" 2017/09/19.15:51:20 P.20131013
+EN work/FA 1506029829 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA/BEHAVIORAL 1506029830 \
+      FL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.vhf" \
+      EN work/FA 1506029829 CP NAND2 CP XOR2

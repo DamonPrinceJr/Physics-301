@@ -1,0 +1,3 @@
+MODULE sandbox
+	SUBMODULE sevenSeg
+		INSTANCE XLXI_23

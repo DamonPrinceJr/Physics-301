@@ -1,0 +1,10 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "CLKin" LOC = N3;
+NET "Din" LOC = P11;
+NET "notQ" LOC = M11;
+NET "Q" LOC = M5;
+NET "X1" LOC = G1;
+NET "X2" LOC = P4;
+NET "X3" LOC = N4;

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="butts">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2017-10-19T20:0:3</timestamp>
+    <pin polarity="Input" x="0" y="-608" name="ADDR(2:0)" />
+    <pin polarity="Input" x="0" y="-544" name="data0(3:0)" />
+    <pin polarity="Input" x="0" y="-480" name="data1(3:0)" />
+    <pin polarity="Input" x="0" y="-416" name="data2(3:0)" />
+    <pin polarity="Input" x="0" y="-352" name="data3(3:0)" />
+    <pin polarity="Input" x="0" y="-288" name="data4(3:0)" />
+    <pin polarity="Input" x="0" y="-224" name="data5(3:0)" />
+    <pin polarity="Input" x="0" y="-160" name="data6(3:0)" />
+    <pin polarity="Input" x="0" y="-96" name="data7(3:0)" />
+    <pin polarity="Input" x="0" y="-32" name="E" />
+    <pin polarity="Output" x="384" y="-608" name="Q3" />
+    <pin polarity="Output" x="384" y="-416" name="Q0" />
+    <pin polarity="Output" x="384" y="-224" name="Q1" />
+    <pin polarity="Output" x="384" y="-32" name="Q4" />
+    <graph>
+        <rect width="256" x="64" y="-640" height="640" />
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="192" y="-648" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-608" type="pin ADDR(2:0)" />
+        <rect width="64" x="0" y="-620" height="24" />
+        <line x2="0" y1="-608" y2="-608" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-544" type="pin data0(3:0)" />
+        <rect width="64" x="0" y="-556" height="24" />
+        <line x2="0" y1="-544" y2="-544" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-480" type="pin data1(3:0)" />
+        <rect width="64" x="0" y="-492" height="24" />
+        <line x2="0" y1="-480" y2="-480" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-416" type="pin data2(3:0)" />
+        <rect width="64" x="0" y="-428" height="24" />
+        <line x2="0" y1="-416" y2="-416" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-352" type="pin data3(3:0)" />
+        <rect width="64" x="0" y="-364" height="24" />
+        <line x2="0" y1="-352" y2="-352" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin data4(3:0)" />
+        <rect width="64" x="0" y="-300" height="24" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-224" type="pin data5(3:0)" />
+        <rect width="64" x="0" y="-236" height="24" />
+        <line x2="0" y1="-224" y2="-224" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-160" type="pin data6(3:0)" />
+        <rect width="64" x="0" y="-172" height="24" />
+        <line x2="0" y1="-160" y2="-160" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-96" type="pin data7(3:0)" />
+        <rect width="64" x="0" y="-108" height="24" />
+        <line x2="0" y1="-96" y2="-96" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin E" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-608" type="pin Q3" />
+        <line x2="384" y1="-608" y2="-608" x1="320" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-416" type="pin Q0" />
+        <line x2="384" y1="-416" y2="-416" x1="320" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-224" type="pin Q1" />
+        <line x2="384" y1="-224" y2="-224" x1="320" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-32" type="pin Q4" />
+        <line x2="384" y1="-32" y2="-32" x1="320" />
+    </graph>
+</symbol>

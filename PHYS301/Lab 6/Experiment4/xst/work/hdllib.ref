@@ -1,0 +1,14 @@
+EN dcm_50m NULL "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl04 1507666037
+EN ssd_1dig NULL "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl06 1507666039
+EN sel_strobeb NULL "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl10 1507666043
+AR experiment4 behavioral "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment4/Experiment4.vhf" sub00/vhpl13 1507666046
+AR mux4ssd behavioral "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl01 1507666034
+AR crenc4bin behavioral "C:/Users/Big D/Downloads/CRenc4bin.vhd" sub00/vhpl03 1507666036
+EN bin2bcd3en NULL "C:/Users/Big D/Downloads/bin2BCD3en.vhd" sub00/vhpl08 1507666041
+AR ssd_1dig behavioral "C:/Users/Big D/Downloads/SSD_1dig.vhd" sub00/vhpl07 1507666040
+AR sel_strobeb behavioral "C:/Users/Big D/Downloads/sel_strobeB.vhd" sub00/vhpl11 1507666044
+EN mux4ssd NULL "C:/Users/Big D/Downloads/mux4SSD.vhd" sub00/vhpl00 1507666033
+AR bin2bcd3en behavioral "C:/Users/Big D/Downloads/bin2BCD3en.vhd" sub00/vhpl09 1507666042
+EN crenc4bin NULL "C:/Users/Big D/Downloads/CRenc4bin.vhd" sub00/vhpl02 1507666035
+AR dcm_50m behavioral "C:/Users/Big D/Downloads/DCM_50M.vhd" sub00/vhpl05 1507666038
+EN experiment4 NULL "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment4/Experiment4.vhf" sub00/vhpl12 1507666045

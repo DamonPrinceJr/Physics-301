@@ -1,0 +1,34 @@
+
+
+NET "sseg[7]" LOC = N13;
+NET "sseg[6]" LOC = L14;
+NET "sseg[5]" LOC = H12;
+NET "sseg[4]" LOC = N14;
+NET "sseg[3]" LOC = N11;
+NET "sseg[2]" LOC = P12;
+NET "sseg[1]" LOC = L13;
+NET "sseg[0]" LOC = M12;
+NET "Q[2]" LOC = P4;
+NET "Q[3]" LOC = G1;
+#NET "colO[3]" LOC = B7;
+#NET "colO[2]" LOC = C5;
+#NET "colO[1]" LOC = B6;
+#NET "colO[0]" LOC = C6;
+NET "anO[0]" LOC = F12;
+NET "anO[1]" LOC = J12;
+NET "anO[2]" LOC = M13;
+NET "anO[3]" LOC = K14;
+NET "CLKin" LOC = G12;
+NET "CLKin" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "Din" LOC = P11;
+NET "En" LOC = E2;
+#NET "keyO" LOC = M5;
+#NET "SYS_CLK" LOC = C8;
+
+
+NET "SYS_CLK" LOC = B8;
+
+# PlanAhead Generated physical constraints 
+
+NET "Q[0]" LOC = N5;
+NET "Q[1]" LOC = N4;

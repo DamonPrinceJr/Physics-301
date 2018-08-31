@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -refsym FA {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.sym} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl FA_drc.vhf -w {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 4/experiment5/FA.sch} 

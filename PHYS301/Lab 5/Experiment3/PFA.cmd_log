@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PFA.ucf -p xc3s100e-cp132-4 "PFA.ngc" PFA.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o PFA_map.ncd PFA.ngd PFA.pcf 
+par -w -intstyle ise -ol high -t 1 PFA_map.ncd PFA.ncd PFA.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PFA.twx PFA.ncd -o PFA.twr PFA.pcf -ucf PFA.ucf 
+bitgen -intstyle ise -f PFA.ut PFA.ncd 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 5/Experiment3/PFA.syr" 

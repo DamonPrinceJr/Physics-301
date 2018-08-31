@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment4/Experiment4.xst" -ofn "C:/Users/Big D/Documents/CSUSM/PHYS301/Lab 6/Experiment4/Experiment4.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Experiment4.ucf -p xc3s100e-cp132-4 "Experiment4.ngc" Experiment4.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Experiment4_map.ncd Experiment4.ngd Experiment4.pcf 
+par -w -intstyle ise -ol high -t 1 Experiment4_map.ncd Experiment4.ncd Experiment4.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Experiment4.twx Experiment4.ncd -o Experiment4.twr Experiment4.pcf -ucf Experiment4.ucf 
+bitgen -intstyle ise -f Experiment4.ut Experiment4.ncd 

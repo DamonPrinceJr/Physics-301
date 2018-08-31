@@ -1,0 +1,13 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl outputMUX_drc.vhf -w {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl outputMUX_drc.vhf -w {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym outputMUX {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sch} {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab7/Experiment9/outputMUX.sym} 

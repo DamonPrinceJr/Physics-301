@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue Oct 24 13:23:35 2017
+# Process ID: 10872
+# Log file: C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/planAhead_run_3/planAhead.log
+# Journal file: C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/planAhead_run_3/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Big D/Documents/CSUSM/PHYS301/Lab8/Experiment2/pa.fromNetlist.tcl}
+startgroup
+set_property package_pin N5 [get_ports Q3]
+endgroup
+save_constraints
